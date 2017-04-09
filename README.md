@@ -1,6 +1,6 @@
 # Project 2 - *Yelpr*
 
-**Yelpr ** is a Yelp search app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
+**Yelpr** is a Yelp search app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
 
 Time spent: ** ~18** hours spent in total
 
@@ -31,16 +31,16 @@ The following **optional** features are implemented:
 - [x] Implement the restaurant detail page.
 
 The following **additional** features are implemented:
-- [x] Added launch icon
-- [x] Tracking user location and showing in mapview.
-- [x] Detail page : Has - ** checkin **  and ** favorites **  buttons to add businesses of interest or check in. Currently stored in memory.
-	  [x] Has a mini map which shows the address of the business.
-- [x] Added tabbed bar - where second bar "Activity " list - showing checked in /favorited businesses.
+- [x] Added **launch icon**
+- [x] Tracking **user location** and showing in mapview.
+- [x] Detail page : Tracks - **checkin**  and **favorites**  buttons to add businesses of interest or check in. Currently stored in memory.
+	  [x] Has a **mini map**  which shows the address of the business.
+- [x] Added tabbed bar - where second bar **"Activity "** list - showing checked in /favorited businesses.
 - [x] MapKit : Added Custom Marker for MKAnnotation , Custom view for MKAnnotationView
 - [x] Autolayout implemented througout all screens
 - [x] Animations 
-	- [x] Tried to mimic flip horizontal from list to map and flip vertical from map to list.
-	- [x] Sections expansion on filters page for Sort by / Distance and Categories.
+	- [x] Tried to mimic what Yelp has **flip horizontal** from list to map and **flip vertical** from map to list.
+	- [x] Sections **expansion/collapse** on filters page for Sort by / Distance and Categories.
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
