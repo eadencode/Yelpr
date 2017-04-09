@@ -62,12 +62,11 @@ Describe any challenges encountered while building the app.
 1. MapKit customizations 
 
 ## Pods used and attributed to their respective Licenses
-
-  AFNetworking  2.5
-  BDBOAuth1Manager
-  MBProgressHUD 0.9.1
-  ICSPullToRefresh 0.6'
-  CBZSplashView 1.0.0
+- AFNetworking  2.5
+- BDBOAuth1Manager
+- MBProgressHUD 0.9.1
+- ICSPullToRefresh 0.6'
+- CBZSplashView 1.0.0
 
 # Icons from icon 8.
 
