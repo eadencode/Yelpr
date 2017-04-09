@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 - [x] Added **launch icon**
 - [x] Tracking **user location** and showing in mapview.
 - [x] Detail page : Tracks - **checkin**  and **favorites**  buttons to add businesses of interest or check in. Currently stored in memory.
-	  [x] Has a **mini map**  which shows the address of the business.
+	- [x] Has a **mini map**  which shows the address of the business.
 - [x] Added tabbed bar - where second bar **"Activity "** list - showing checked in /favorited businesses.
 - [x] MapKit : Added Custom Marker for MKAnnotation , Custom view for MKAnnotationView
 - [x] Autolayout implemented througout all screens
